@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are a Hash Cracking and Password Recovery team, Founded and Competed in Bitcrack 2016, Looking for new competitions.
+Currently 6 members.
 
-### More Information
+### Contact us
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[iminyourwifi@protonmail.com](mailto:iminyourwifi@protonmail.com)
